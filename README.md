@@ -1,6 +1,6 @@
 # OneNote VBA Host
 
-This is a toolkit I am developing to complement OneNote 2010 (and working on the 2016 version)
+This is a toolkit I am developing to complement 2016 version (no loner working on the 2010 version, included as is)
 
 I needed a few functions that the Onetastic kit doesnt seem to be able to do quickly so I am doing it in VBA
 
